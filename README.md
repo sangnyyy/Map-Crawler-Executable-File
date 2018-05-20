@@ -1,17 +1,16 @@
 # Map-Crawler-Executable-File
 
-## This repository was created to make the Map-Crawler python project an exe file for the convenience of users.
+## 실행파일을 저의 구글 드라이브에 업로드 하였습니다. 사용법은 아래를 참조하세요!
+=> [https://drive.google.com/open?id=1bNb8iwZm9n3MHbR8Seeqn6NIvVY-VAP1](링크)
 
 ## Usage
 
 ```
-1. Clone Repository now!
+1. SML-crawler 디렉토리를 다운로드 받으세요.
 
-2. Open SML-Crawler directory.
+2. main.exe파일을 실행시키세요.
 
-3. Excute main.exe
-
-4. After main.exe is executed, the csv file will be created!
+3. 상호명을 검색하시고, 디렉토리 내의 생성되는 csv파일을 확인하세요!
 ```
 
 ## Notice
