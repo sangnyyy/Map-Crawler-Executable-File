@@ -42,4 +42,4 @@ cities.py의 코드를 수정해주세요.
 
 ## Made By
 
-* PyInstaller(Link : [https://www.pyinstaller.org](https://www.pyinstaller.org/))
+* PyInstaller ([https://www.pyinstaller.org](https://www.pyinstaller.org/))
