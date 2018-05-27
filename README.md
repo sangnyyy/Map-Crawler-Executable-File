@@ -42,3 +42,7 @@ cities.py의 코드를 수정해주세요.
 ## Made By
 
 * PyInstaller ([https://www.pyinstaller.org](https://www.pyinstaller.org/))
+
+```
+$ pyinstaller --icon="icon.ico" main.py -F
+```
